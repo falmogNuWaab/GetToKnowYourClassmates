@@ -1,0 +1,14 @@
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.exe
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.deps.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.runtimeconfig.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.csproj.AssemblyReference.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.genruntimeconfig.cache
