@@ -85,16 +85,25 @@ namespace GetToKnowYourClassmates
                 //int studentNumber = int.Parse(pickClassMember);
                 studentNumber = studentNumber - 1; //arrays start at 0, student numbers start at 1, so need to subtract 1.
                 string selectedStudent = classmates[studentNumber];
+                string[] splitStudentArray = selectedStudent.Split(",");
+
+                /*
+                 * foreach(string student in splitStudentArray)
+                {
+                    Console.WriteLine(student.Trim());
+                }
+                */
+
                 Console.WriteLine("");
                 Console.WriteLine($"Student: {selectedStudent} ");
                 Console.WriteLine("");
                 if (SpillTheBeans(selectedStudent) == "hometown")
                 {
-                    Console.WriteLine($"{selectedStudent} is from {HomeTown[selectedStudent]}");
+                    Console.WriteLine($"\n{splitStudentArray[1].Trim()} is from {HomeTown[selectedStudent]}");
                 }
                 else
                 {
-                    Console.WriteLine($"{selectedStudent} likes to eat {FavFood[selectedStudent]}");
+                    Console.WriteLine($"\n{splitStudentArray[1].Trim()} likes to eat {FavFood[selectedStudent]}");
                 }
                 Console.WriteLine("");
                 cntnu = ShallWe(" ");
